@@ -74,7 +74,7 @@ I love:
 
 ## 📫 Let’s Connect
 
-- 🌐 GitHub:[ [github.com/your-username](https://github.com/your-username)](https://github.com/gy-gere/gy-gere/edit/main/README.md)
+- 🌐 GitHub: https://github.com/gy-gere/
 - 📍 Location: Debre Birhan, Ethiopia
 - 🤝 Open to collaboration on **robotics, AI, and embedded projects**
 
