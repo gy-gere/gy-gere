@@ -1,83 +1,67 @@
-# Hi 👋, I'm Geremew Yilma
+👋 Hi, I'm Geremew Yilma
+💻 Computer Science Graduate | ⚡ Electrical & Computer Engineering Student | 🤖 Robotics Enthusiast
 
-💻 **Computer Science Graduate** from @UoPeople  
-⚡ **Electrical & Computer Engineering Student**  
-🤖 **Robotics | AI | Embedded Systems Enthusiast**  
-🌍 Debre Birhan, Ethiopia
+🌍 Based in Debre Birhan, Ethiopia
 
----
+🚀 About Me
 
-## 🚀 About Me
+I am passionate about building intelligent systems that bridge the gap between software and hardware.
 
-I’m a passionate engineer who enjoys building systems that connect **software and hardware**.  
-I have a strong foundation in **Computer Science** and I’m currently advancing my skills in  
-**Electrical & Computer Engineering**, with a deep interest in **robotics, AI, and intelligent systems**.
+With a background in Computer Science and ongoing studies in Electrical & Computer Engineering, I enjoy developing innovative solutions in Robotics, Artificial Intelligence, Embedded Systems, and Automation.
 
-I love:
-- Designing educational and autonomous robots 🤖  
-- Working with embedded systems and sensors  
-- Exploring AI concepts like agents, sensor fusion, and intelligent control  
-- Turning ideas into real, working prototypes  
+What I Enjoy
 
----
+🤖 Building autonomous and educational robots
+⚙️ Developing embedded and sensor-based systems
+🧠 Exploring AI, intelligent agents, and control systems
+🚀 Transforming ideas into real-world engineering projects
 
-## 🧠 Areas of Interest
+🔬 Interests
+Robotics & Autonomous Systems
+Artificial Intelligence
+Embedded Systems & IoT
+Digital Electronics
+Computer Vision & Sensor Fusion
+Web & Software Development
+Intelligent Control Systems
+🛠️ Technologies & Tools
+Programming
 
-- Robotics & Autonomous Systems  
-- Artificial Intelligence & AI Agents  
-- Embedded Systems & Microcontrollers  
-- Digital Electronics & PLDs  
-- Web & Software Development  
-- Sensor Fusion (Ultrasonic, Servo, EEG concepts)
+Python • JavaScript • C • C++ • PHP • HTML • CSS
 
----
+Hardware & Embedded
 
-## 🛠️ Tech Stack
+Arduino • Microcontrollers • PLDs • Digital Logic Design
 
-**Programming & Software**
-- JavaScript
-- Python
-- C / C++
-- PHP
-- HTML & CSS
+Sensors & Components
 
-**Hardware & Tools**
-- Arduino
-- Embedded Systems
-- Digital Electronics
-- Ultrasonic Sensors, Servo Motors
-- PLDs & Logic Design
+Ultrasonic Sensors • Servo Motors • Embedded Controllers
 
-**Concepts**
-- Algorithms & Data Structures
-- Operating Systems
-- CPU Scheduling
-- Networking Basics
-- Statistics & Probability
+Core Knowledge
 
----
+Algorithms • Data Structures • Operating Systems • Computer Networks • Statistics
 
-## 🤖 Featured Projects
+🤖 Featured Projects
+🔹 Obstacle-Avoiding Robot
 
-- 🔹 **Educational Obstacle-Avoiding Robot**  
-  Autonomous robot using ultrasonic sensors and servo-based navigation logic.
+Autonomous robot using ultrasonic sensing and servo-based navigation for intelligent obstacle detection and avoidance.
 
-- 🔹 **Mars Rover Concept Project**  
-  Rocker-bogie suspension, biometric identification, and remote control design.
+🔹 Mars Rover Concept
 
-- 🔹 **AI & Robotics Experiments**  
-  Exploring AI agents, efficient system design, and intelligent control models.
+Designed a rover featuring rocker-bogie suspension, remote operation, and intelligent navigation concepts.
 
-> More projects coming soon — stay tuned 👀
+🔹 AI & Robotics Experiments
 
----
+Research and experimentation involving AI agents, sensor integration, and intelligent control systems.
 
-## 📫 Let’s Connect
+📈 Current Goals
+Deepening expertise in Robotics and AI
+Building advanced embedded projects
+Contributing to open-source initiatives
+Developing real-world automation solutions
+📫 Connect With Me
+GitHub: https://github.com/gy-gere
+Location: Debre Birhan, Ethiopia
+Open to collaboration on Robotics, AI, and Embedded Systems projects
 
-- 🌐 GitHub: https://github.com/gy-gere/
-- 📍 Location: Debre Birhan, Ethiopia
-- 🤝 Open to collaboration on **robotics, AI, and embedded projects**
-
----
-
-⭐ *If you like my work, feel free to star my repositories and connect!*  
+⭐ If you find my projects useful, consider starring the repositories and following my journey!
