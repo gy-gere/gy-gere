@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Passionate about building intelligent systems that combine software and hardware. I enjoy developing robotics, AI, embedded systems, and automation projects while continuously expanding my engineering skills.
+Passionate about building intelligent systems that combine software and hardware. I enjoy developing MERN stack projects. robotics, AI, embedded systems, and automation projects while continuously expanding my engineering skills.
 
 ## 🛠️ Tech Stack
 
