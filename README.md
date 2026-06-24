@@ -17,7 +17,7 @@ Passionate about building intelligent systems that combine software and hardware
 
 **Interests:** Robotics, AI, IoT, Automation, Software Development
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
 * Build impactful AI and robotics projects
 * Strengthen software engineering skills
