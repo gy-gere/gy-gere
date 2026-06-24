@@ -3,7 +3,6 @@
 💻 Computer Science Graduate
 ⚡ Electrical & Computer Engineering Student
 🤖 Robotics • AI • Embedded Systems Enthusiast
-🌍 Debre Birhan, Ethiopia
 
 ## 🚀 About Me
 
@@ -28,5 +27,7 @@ Passionate about building intelligent systems that combine software and hardware
 
 * GitHub: https://github.com/gy-gere
 * Open to collaboration on AI, Robotics, and Embedded Systems projects
+
+🌍 Debre Birhan, Ethiopia
 
 ⭐ Thanks for visiting my profile!
