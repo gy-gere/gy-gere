@@ -67,16 +67,7 @@ Designed a rover featuring rocker-bogie suspension, remote operation, and intell
 
 Research and experimentation involving AI agents, sensor integration, and intelligent control systems.
 
----
 
-## 📈 Current Goals
-
-* Deepening expertise in Robotics and AI
-* Building advanced embedded projects
-* Contributing to open-source initiatives
-* Developing real-world automation solutions
-
----
 
 ## 📫 Connect With Me
 
