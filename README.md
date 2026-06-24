@@ -1,67 +1,75 @@
-👋 Hi, I'm Geremew Yilma
-💻 Computer Science Graduate | ⚡ Electrical & Computer Engineering Student | 🤖 Robotics Enthusiast
+# 👋 Hi, I'm Geremew Yilma
+
+# 💻 Computer Science Graduate | ⚡ Electrical & Computer Engineering Student | 🤖 Robotics Enthusiast
 
 🌍 Based in Debre Birhan, Ethiopia
 
-🚀 About Me
+# 🚀 About Me
 
-I am passionate about building intelligent systems that bridge the gap between software and hardware.
+I am passionate about building intelligent systems that bridge the gap between **software and hardware**.
 
-With a background in Computer Science and ongoing studies in Electrical & Computer Engineering, I enjoy developing innovative solutions in Robotics, Artificial Intelligence, Embedded Systems, and Automation.
+With a background in **Computer Science** and ongoing studies in **Electrical & Computer Engineering**, I enjoy developing innovative solutions in **Robotics, Artificial Intelligence, Embedded Systems, and Automation**.
 
-What I Enjoy
+# What I Enjoy
 
 🤖 Building autonomous and educational robots
 ⚙️ Developing embedded and sensor-based systems
 🧠 Exploring AI, intelligent agents, and control systems
 🚀 Transforming ideas into real-world engineering projects
 
-🔬 Interests
-Robotics & Autonomous Systems
-Artificial Intelligence
-Embedded Systems & IoT
-Digital Electronics
-Computer Vision & Sensor Fusion
-Web & Software Development
-Intelligent Control Systems
-🛠️ Technologies & Tools
-Programming
+# 🔬 Interests
 
-Python • JavaScript • C • C++ • PHP • HTML • CSS
+* Robotics & Autonomous Systems
+* Artificial Intelligence
+* Embedded Systems & IoT
+* Digital Electronics
+* Computer Vision & Sensor Fusion
+* Web & Software Development
+* Intelligent Control Systems
 
-Hardware & Embedded
+# 🛠️ Technologies & Tools
 
-Arduino • Microcontrollers • PLDs • Digital Logic Design
+# Programming
 
-Sensors & Components
+`Python` • `JavaScript` • `C` • `C++` • `PHP` • `HTML` • `CSS`
 
-Ultrasonic Sensors • Servo Motors • Embedded Controllers
+# Hardware & Embedded
 
-Core Knowledge
+`Arduino` • `Microcontrollers` • `PLDs` • `Digital Logic Design`
 
-Algorithms • Data Structures • Operating Systems • Computer Networks • Statistics
+# Sensors & Components
 
-🤖 Featured Projects
-🔹 Obstacle-Avoiding Robot
+`Ultrasonic Sensors` • `Servo Motors` • `Embedded Controllers`
+
+# Core Knowledge
+
+`Algorithms` • `Data Structures` • `Operating Systems` • `Computer Networks` • `Statistics`
+
+# 🤖 Featured Projects
+
+# 🔹 Obstacle-Avoiding Robot
 
 Autonomous robot using ultrasonic sensing and servo-based navigation for intelligent obstacle detection and avoidance.
 
-🔹 Mars Rover Concept
+# 🔹 Mars Rover Concept
 
 Designed a rover featuring rocker-bogie suspension, remote operation, and intelligent navigation concepts.
 
-🔹 AI & Robotics Experiments
+# 🔹 AI & Robotics Experiments
 
 Research and experimentation involving AI agents, sensor integration, and intelligent control systems.
 
-📈 Current Goals
-Deepening expertise in Robotics and AI
-Building advanced embedded projects
-Contributing to open-source initiatives
-Developing real-world automation solutions
-📫 Connect With Me
-GitHub: https://github.com/gy-gere
-Location: Debre Birhan, Ethiopia
-Open to collaboration on Robotics, AI, and Embedded Systems projects
+# 📈 Current Goals
+
+* Deepening expertise in Robotics and AI
+* Building advanced embedded projects
+* Contributing to open-source initiatives
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/gy-gere
+* Location: Debre Birhan, Ethiopia
+* Open to collaboration on Robotics, AI, and Embedded Systems projects
 
 ⭐ If you find my projects useful, consider starring the repositories and following my journey!
+
